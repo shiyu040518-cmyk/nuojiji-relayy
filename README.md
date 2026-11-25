@@ -17,7 +17,7 @@
 
 **三步搞定（全程网页点击，不用装任何东西）：**
 
-1. 点上面的 **Deploy to Cloudflare** 按钮 → 用 Cloudflare 账号登录（没有就免费注册）
+1. 点上面的 **Deploy to Cloudflare** 按钮 → 用 Cloudflare 的账号登录（没有就免费注册）
 2. 在部署页：
    - **RELAY_SECRET** 填一个你自己定的密码（随便一串字符，等下 App 里要填一样的）
    - 其他留空即可（KV 存储会自动创建；PWA 推送密钥后端会自动生成；iOS 推送默认走糯叽机中转）
